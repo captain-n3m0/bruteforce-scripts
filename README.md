@@ -4,7 +4,7 @@ This repository contains various brute force scripts for educational and researc
 
 ## Scripts Overview
 
-- `fb_brute_force.py`: A script to perform brute force attacks on Facebook login. The script attempts to find a valid password for a given email/username.
+- `facebrute.py`: A script to perform brute force attacks on Facebook login. The script attempts to find a valid password for a given email/username.
 
 ## Usage
 
