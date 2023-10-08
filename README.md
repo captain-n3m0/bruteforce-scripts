@@ -10,8 +10,8 @@ This repository contains various brute force scripts for educational and researc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/brute-force-scripts.git
-   cd brute-force-scripts
+   git clone https://github.com/yourusername/bruteforce-scripts.git
+   cd bruteforce-scripts
    ```
 
 2. Choose a script you want to use and follow its specific instructions in the script file.
